@@ -12,6 +12,10 @@
 
 # Game Screenshot
 
-![PacMan](/images/logo.png)
-![PacMan](/images/logo.png)
-![PacMan](/images/logo.png)
+![PacMan](https://github.com/darkkD11/PACMAN-IN-VB-6.0/blob/master/Screenshots/Pacman%20(1).png)
+
+![PacMan](https://github.com/darkkD11/PACMAN-IN-VB-6.0/blob/master/Screenshots/Pacman%20(2).png)
+
+![PacMan](https://github.com/darkkD11/PACMAN-IN-VB-6.0/blob/master/Screenshots/Pacman%20(3).png)
+
+![PacMan](https://github.com/darkkD11/PACMAN-IN-VB-6.0/blob/master/Screenshots/Pacman%20(4).png)
